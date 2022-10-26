@@ -87,7 +87,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
     ('Under Pressure', 152, 3),
     ('Como Nossos Pais', 105, 4),
     ('O Medo de Amar é o Medo de Ser Livre', 207, 5),
-    ('Samba Paris', 267, 6),
+    ('Samba em Paris', 267, 6),
     ('The Bard`s Song', 244, 7),
     ('Feeling Good', 100, 8);
 
