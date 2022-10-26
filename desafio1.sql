@@ -22,12 +22,12 @@ DROP DATABASE IF EXISTS SpotifyClone;
   
   INSERT INTO SpotifyClone.artists (artist_name)
   VALUES
-    ('Byoncé'),
+    ('Beyoncé'),
     ('Queen'),
     ('Elis Regina'),
     ('Baco Exu do Blues'),
     ('Blind Guardian'),
-    ('Nina Símone');
+    ('Nina Simone');
 
   CREATE TABLE SpotifyClone.users(
     user_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -64,10 +64,10 @@ DROP DATABASE IF EXISTS SpotifyClone;
     ('Renaissance', 2022, 1),
     ('Jazz', 1978, 2),
     ('Hot Space', 1982, 2),
-    ('Falso brilhante', 1998, 3),
+    ('Falso Brilhante', 1998, 3),
     ('Vento de Maio', 2001, 3),
     ('QVVJFA?', 2003, 4),
-    ('Somewhere Far Beyon', 2007, 5),
+    ('Somewhere Far Beyond', 2007, 5),
     ('I Put A Spell On You', 2012, 6);
 
   CREATE TABLE SpotifyClone.songs(
